@@ -28,7 +28,7 @@ const movies = [
 // callback function 
 const callbackMovie = (err, movies) => { 
     if(err) { 
-        return `movie id  ${err} not found` + console.log(`movie not found ${err}`)
+        return `movie id  ${err} not found`
         
     } 
     else { 
