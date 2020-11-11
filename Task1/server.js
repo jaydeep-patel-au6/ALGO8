@@ -30,7 +30,7 @@ app.get('/', (req, res)=>{
 app.use((err, req, res, next) => {
     res.status(500);
     res.send("Somthing wrong. Please try again")
-    
+    console.log('Error = ' + err)
  });
     
 
