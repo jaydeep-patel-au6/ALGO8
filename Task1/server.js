@@ -14,13 +14,27 @@ const app = express()
 
 app.get('/', (req, res)=>{
     
+  
     res.json({
         mode: mode,
         msg: msg
     })
 
+    
+
 })
 
+
+
+//An error handling middleware
+app.use((err, req, res, next) => {
+    res.status(500);
+    res.send("Somthing wrong. Please try again")
+    
+ });
+    
+
+    
 
 app.listen(PORT, ()=>{
     console.log(`server run on port ${PORT}`)
