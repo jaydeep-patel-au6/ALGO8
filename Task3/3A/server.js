@@ -1,6 +1,8 @@
 const express=require('express')
 const bodyparser=require('body-parser')
 const cookieParser=require('cookie-parser')
+require('./models/db')
+
 
 //route link
 const user = require('./routes/userRoutes')
