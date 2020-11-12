@@ -4,6 +4,7 @@ const cookieParser=require('cookie-parser')
 require('./models/db')
 
 
+
 //route link
 const user = require('./routes/userRoutes')
 
@@ -12,10 +13,13 @@ const app=express()
 
 app.use(bodyparser.urlencoded({extended : false}))
 app.use(bodyparser.json())
+
 app.use(cookieParser())
 
 
 app.use('/', user)
+
+
 
 const PORT=process.env.PORT||3000;
 app.listen(PORT,()=>{

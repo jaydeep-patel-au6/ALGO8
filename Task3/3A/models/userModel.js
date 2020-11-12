@@ -24,12 +24,12 @@ const userSchema=mongoose.Schema({
     password:{
         type:String,
         required: true,
-        minlength:8
+        minlength:2
     },
     password2:{
         type:String,
         required: true,
-        minlength:8
+        minlength:2
 
     },
     token:{
@@ -37,7 +37,7 @@ const userSchema=mongoose.Schema({
     }
 });
 
-module.exports = mongoose.model('User', userSchema)
+
 
 
 userSchema.pre('save',function(next){
@@ -106,3 +106,5 @@ userSchema.methods.deleteToken=function(token,cb){
         cb(null,user)
     })
 }
+
+module.exports = mongoose.model('User', userSchema)
