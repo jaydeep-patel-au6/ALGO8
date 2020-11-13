@@ -4,11 +4,11 @@ var Schema = mongoose.Schema;
 
 var productSchema = new Schema({
 
-  product_name: { type: String, Required:  'Product name cannot be left blank.' },
+  car_name: { type: String, Required:  'car name cannot be left blank.' },
 
-  price:    { type: String,     Required:  'Product price cannot be left blank.'},
+  car_model:    { type: String, Required:  'car model cannot be left blank.'},
 
-  category: { type: String ,    Required:  'Product category cannot be left blank'}
+  car_model_year: { type: String, Required:  'car model year category cannot be left blank'}
 
 });
 
