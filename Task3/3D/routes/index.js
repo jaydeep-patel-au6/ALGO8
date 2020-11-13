@@ -11,7 +11,7 @@ var Product  = mongoose.model('Products');
         if (err)
           res.send(err)
 
-        res.render('index', { title: 'export to CSV', products: products })
+        res.render('index', { title: 'export data', products: products })
     })
  })
 
