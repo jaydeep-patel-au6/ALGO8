@@ -1,0 +1,28 @@
+extends layout
+
+block content
+  .container 
+      .row
+        .logo
+          h3
+     
+      .row
+        .span12
+          .mini-layout
+            h3 
+             a(href='/exporttocsv' style="margin-left: 60%;" class='text-danger') Export to CSV
+
+            table.table.table-bordered
+              thead
+                tr.text-primary
+                  th ID
+                  th Car Name
+                  th Model
+                  th Model year
+                if products.length
+                each item in products
+                 tr
+                   td #{item['_id']}
+                   td #{item['car_name']}
+                   td #{item['car_model']}
+                   td #{item['car_model_year']}

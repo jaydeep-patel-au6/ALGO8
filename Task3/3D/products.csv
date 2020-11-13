@@ -1,0 +1,101 @@
+_id,id,car_name,car_model,car_model_year
+"5fae6e1bf74f7444f49cea80","5fae6e57fc13ae7c2b000000","Audi","R8",2008
+"5fae6e1bf74f7444f49cea81","5fae6e57fc13ae7c2b000001","GMC","Jimmy",1999
+"5fae6e1bf74f7444f49cea82","5fae6e57fc13ae7c2b000002","Volvo","XC90",2009
+"5fae6e1bf74f7444f49cea83","5fae6e57fc13ae7c2b000003","Geo","Metro",1997
+"5fae6e1bf74f7444f49cea84","5fae6e57fc13ae7c2b000004","Chevrolet","Silverado",2009
+"5fae6e1bf74f7444f49cea85","5fae6e57fc13ae7c2b000005","Ford","Expedition",2003
+"5fae6e1bf74f7444f49cea86","5fae6e57fc13ae7c2b000006","Volvo","C30",2010
+"5fae6e1bf74f7444f49cea87","5fae6e57fc13ae7c2b000007","Buick","Rainier",2005
+"5fae6e1bf74f7444f49cea88","5fae6e57fc13ae7c2b000008","Ford","Expedition",2002
+"5fae6e1bf74f7444f49cea89","5fae6e57fc13ae7c2b000009","Kia","Sedona",2005
+"5fae6e1bf74f7444f49cea8a","5fae6e57fc13ae7c2b00000a","Toyota","MR2",2002
+"5fae6e1bf74f7444f49cea8b","5fae6e57fc13ae7c2b00000b","Mitsubishi","Outlander",2003
+"5fae6e1bf74f7444f49cea8c","5fae6e57fc13ae7c2b00000c","GMC","Vandura 1500",1994
+"5fae6e1bf74f7444f49cea8d","5fae6e57fc13ae7c2b00000d","GMC","Yukon XL 1500",2002
+"5fae6e1bf74f7444f49cea8e","5fae6e57fc13ae7c2b00000e","GMC","Jimmy",1999
+"5fae6e1bf74f7444f49cea8f","5fae6e57fc13ae7c2b00000f","Ford","Festiva",1989
+"5fae6e1bf74f7444f49cea90","5fae6e57fc13ae7c2b000010","Land Rover","LR3",2008
+"5fae6e1bf74f7444f49cea91","5fae6e57fc13ae7c2b000011","Volkswagen","Golf",1976
+"5fae6e1bf74f7444f49cea92","5fae6e57fc13ae7c2b000012","Toyota","Solara",2008
+"5fae6e1bf74f7444f49cea93","5fae6e57fc13ae7c2b000013","Spyker","C8 Laviolette",2004
+"5fae6e1bf74f7444f49cea94","5fae6e57fc13ae7c2b000014","Ford","Flex",2012
+"5fae6e1bf74f7444f49cea95","5fae6e57fc13ae7c2b000015","Pontiac","G3",2010
+"5fae6e1bf74f7444f49cea96","5fae6e57fc13ae7c2b000016","Lexus","LS Hybrid",2011
+"5fae6e1bf74f7444f49cea97","5fae6e57fc13ae7c2b000017","Oldsmobile","Cutlass",1999
+"5fae6e1bf74f7444f49cea98","5fae6e57fc13ae7c2b000018","Mercedes-Benz","E-Class",1995
+"5fae6e1bf74f7444f49cea99","5fae6e57fc13ae7c2b000019","Dodge","Viper",2001
+"5fae6e1bf74f7444f49cea9a","5fae6e57fc13ae7c2b00001a","Plymouth","Sundance",1992
+"5fae6e1bf74f7444f49cea9b","5fae6e57fc13ae7c2b00001b","Cadillac","CTS",2012
+"5fae6e1bf74f7444f49cea9c","5fae6e57fc13ae7c2b00001c","Ford","Freestyle",2006
+"5fae6e1bf74f7444f49cea9d","5fae6e57fc13ae7c2b00001d","Chevrolet","Express 3500",1997
+"5fae6e1bf74f7444f49cea9e","5fae6e57fc13ae7c2b00001e","Land Rover","Freelander",2002
+"5fae6e1bf74f7444f49cea9f","5fae6e57fc13ae7c2b00001f","Buick","Terraza",2006
+"5fae6e1bf74f7444f49ceaa0","5fae6e57fc13ae7c2b000020","Ford","Escort",1994
+"5fae6e1bf74f7444f49ceaa1","5fae6e57fc13ae7c2b000021","GMC","Savana 2500",2003
+"5fae6e1bf74f7444f49ceaa2","5fae6e57fc13ae7c2b000022","Mazda","Miata MX-5",1994
+"5fae6e1bf74f7444f49ceaa3","5fae6e57fc13ae7c2b000023","Subaru","Impreza",2002
+"5fae6e1bf74f7444f49ceaa4","5fae6e57fc13ae7c2b000024","GMC","Savana 3500",2008
+"5fae6e1bf74f7444f49ceaa5","5fae6e57fc13ae7c2b000025","Lexus","GS",1998
+"5fae6e1bf74f7444f49ceaa6","5fae6e57fc13ae7c2b000026","Mitsubishi","3000GT",1994
+"5fae6e1bf74f7444f49ceaa7","5fae6e57fc13ae7c2b000027","Mercury","Cougar",1986
+"5fae6e1bf74f7444f49ceaa8","5fae6e57fc13ae7c2b000028","Chevrolet","Tahoe",2005
+"5fae6e1bf74f7444f49ceaa9","5fae6e57fc13ae7c2b000029","Pontiac","Grand Prix",1981
+"5fae6e1bf74f7444f49ceaaa","5fae6e57fc13ae7c2b00002a","BMW","Z3",1998
+"5fae6e1bf74f7444f49ceaab","5fae6e57fc13ae7c2b00002b","Chevrolet","Suburban 1500",2006
+"5fae6e1bf74f7444f49ceaac","5fae6e57fc13ae7c2b00002c","Ford","ZX2",2002
+"5fae6e1bf74f7444f49ceaad","5fae6e57fc13ae7c2b00002d","Volvo",960,1993
+"5fae6e1bf74f7444f49ceaae","5fae6e57fc13ae7c2b00002e","Infiniti","G",2006
+"5fae6e1bf74f7444f49ceaaf","5fae6e57fc13ae7c2b00002f","Mitsubishi","GTO",1993
+"5fae6e1bf74f7444f49ceab0","5fae6e57fc13ae7c2b000030","Volkswagen","Jetta",1997
+"5fae6e1bf74f7444f49ceab1","5fae6e57fc13ae7c2b000031","GMC","Savana",2009
+"5fae6e1bf74f7444f49ceab2","5fae6e57fc13ae7c2b000032","Chrysler","New Yorker",1993
+"5fae6e1bf74f7444f49ceab3","5fae6e57fc13ae7c2b000033","Cadillac","SRX",2004
+"5fae6e1bf74f7444f49ceab4","5fae6e57fc13ae7c2b000034","Chevrolet","Astro",2005
+"5fae6e1bf74f7444f49ceab5","5fae6e57fc13ae7c2b000035","Ford","Expedition",2006
+"5fae6e1bf74f7444f49ceab6","5fae6e57fc13ae7c2b000036","Ford","Focus",2007
+"5fae6e1bf74f7444f49ceab7","5fae6e57fc13ae7c2b000037","Bentley","Azure T",2010
+"5fae6e1bf74f7444f49ceab8","5fae6e57fc13ae7c2b000038","Nissan","Armada",2007
+"5fae6e1bf74f7444f49ceab9","5fae6e57fc13ae7c2b000039","Pontiac","Trans Sport",1994
+"5fae6e1bf74f7444f49ceaba","5fae6e57fc13ae7c2b00003a","Cadillac","Escalade",2011
+"5fae6e1bf74f7444f49ceabb","5fae6e57fc13ae7c2b00003b","Mazda","RX-8",2007
+"5fae6e1bf74f7444f49ceabc","5fae6e57fc13ae7c2b00003c","Dodge","Ramcharger",1993
+"5fae6e1bf74f7444f49ceabd","5fae6e58fc13ae7c2b00003d","Nissan","200SX",1998
+"5fae6e1bf74f7444f49ceabe","5fae6e58fc13ae7c2b00003e","Plymouth","Voyager",1992
+"5fae6e1bf74f7444f49ceabf","5fae6e58fc13ae7c2b00003f","Land Rover","Discovery",2002
+"5fae6e1bf74f7444f49ceac0","5fae6e58fc13ae7c2b000040","Lamborghini","Diablo",1990
+"5fae6e1bf74f7444f49ceac1","5fae6e58fc13ae7c2b000041","Subaru","Justy",1988
+"5fae6e1bf74f7444f49ceac2","5fae6e58fc13ae7c2b000042","Volvo","C70",2013
+"5fae6e1bf74f7444f49ceac3","5fae6e58fc13ae7c2b000043","Subaru","Tribeca",2006
+"5fae6e1bf74f7444f49ceac4","5fae6e58fc13ae7c2b000044","Dodge","D250 Club",1992
+"5fae6e1bf74f7444f49ceac5","5fae6e58fc13ae7c2b000045","Porsche","Boxster",2003
+"5fae6e1bf74f7444f49ceac6","5fae6e58fc13ae7c2b000046","Chrysler","Concorde",2003
+"5fae6e1bf74f7444f49ceac7","5fae6e58fc13ae7c2b000047","Lincoln","Mark LT",2007
+"5fae6e1bf74f7444f49ceac8","5fae6e58fc13ae7c2b000048","BMW","3 Series",1998
+"5fae6e1bf74f7444f49ceac9","5fae6e58fc13ae7c2b000049","Kia","Sedona",2008
+"5fae6e1bf74f7444f49ceaca","5fae6e58fc13ae7c2b00004a","Volkswagen","Type 2",1985
+"5fae6e1bf74f7444f49ceacb","5fae6e58fc13ae7c2b00004b","Jeep","Cherokee",1993
+"5fae6e1bf74f7444f49ceacc","5fae6e58fc13ae7c2b00004c","Dodge","Durango",2003
+"5fae6e1bf74f7444f49ceacd","5fae6e58fc13ae7c2b00004d","Subaru","Brat",1984
+"5fae6e1bf74f7444f49ceace","5fae6e58fc13ae7c2b00004e","Ford","Taurus",2007
+"5fae6e1bf74f7444f49ceacf","5fae6e58fc13ae7c2b00004f","Dodge","Stratus",2001
+"5fae6e1bf74f7444f49cead0","5fae6e58fc13ae7c2b000050","Honda","Accord",1990
+"5fae6e1bf74f7444f49cead1","5fae6e58fc13ae7c2b000051","Hyundai","Accent",2009
+"5fae6e1bf74f7444f49cead2","5fae6e58fc13ae7c2b000052","Infiniti","M",2009
+"5fae6e1bf74f7444f49cead3","5fae6e58fc13ae7c2b000053","Chevrolet","Silverado 1500",2007
+"5fae6e1bf74f7444f49cead4","5fae6e58fc13ae7c2b000054","MINI","Cooper",2012
+"5fae6e1bf74f7444f49cead5","5fae6e58fc13ae7c2b000055","Dodge","Stratus",1996
+"5fae6e1bf74f7444f49cead6","5fae6e58fc13ae7c2b000056","Kia","Rio",2005
+"5fae6e1bf74f7444f49cead7","5fae6e58fc13ae7c2b000057","Ford","Explorer Sport Trac",2006
+"5fae6e1bf74f7444f49cead8","5fae6e58fc13ae7c2b000058","Volvo","S40",2005
+"5fae6e1bf74f7444f49cead9","5fae6e58fc13ae7c2b000059","Mitsubishi","Montero",2006
+"5fae6e1bf74f7444f49ceada","5fae6e58fc13ae7c2b00005a","Dodge","Spirit",1994
+"5fae6e1bf74f7444f49ceadb","5fae6e58fc13ae7c2b00005b","Audi","S8",2007
+"5fae6e1bf74f7444f49ceadc","5fae6e58fc13ae7c2b00005c","Ford","Thunderbird",1955
+"5fae6e1bf74f7444f49ceadd","5fae6e58fc13ae7c2b00005d","GMC","Yukon XL",2006
+"5fae6e1bf74f7444f49ceade","5fae6e58fc13ae7c2b00005e","Dodge","Ram 2500 Club",1998
+"5fae6e1bf74f7444f49ceadf","5fae6e58fc13ae7c2b00005f","Dodge","Neon",1999
+"5fae6e1bf74f7444f49ceae0","5fae6e58fc13ae7c2b000060","BMW","7 Series",2007
+"5fae6e1bf74f7444f49ceae1","5fae6e58fc13ae7c2b000061","Audi","R8",2008
+"5fae6e1bf74f7444f49ceae2","5fae6e58fc13ae7c2b000062","GMC",3500,1998
+"5fae6e1bf74f7444f49ceae3","5fae6e58fc13ae7c2b000063","Infiniti","QX",2003
