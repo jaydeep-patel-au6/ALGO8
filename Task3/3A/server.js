@@ -2,6 +2,7 @@ const express=require('express')
 const bodyparser=require('body-parser')
 const cookieParser=require('cookie-parser')
 require('./models/db')
+const hbs = require('hbs')
 
 
 
@@ -16,6 +17,9 @@ app.use(bodyparser.json())
 
 app.use(cookieParser())
 
+//VIEW ENGINE
+app.set("view engine", "hbs");
+app.set("views", "views");
 
 app.use('/', user)
 

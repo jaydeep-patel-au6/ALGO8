@@ -17,4 +17,6 @@ router.get('/api/profile', auth, user.profile) // user profile route
 
 router.get('/api/logout',auth, user.logout) //user logout route
 
+
+
 module.exports = router

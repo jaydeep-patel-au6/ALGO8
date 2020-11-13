@@ -57,6 +57,7 @@ class user {
                                 id : user._id
                                 ,email : user.email
                             })
+                            
                         }) 
                     })
                 })
@@ -86,6 +87,8 @@ class user {
                 })
             })
         }
+
+        
 
 }
 
